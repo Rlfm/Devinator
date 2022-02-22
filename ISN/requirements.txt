@@ -1,0 +1,6 @@
+playsound
+AppKit
+google.cloud
+pyaudio
+six
+

@@ -1,0 +1,10 @@
+snake;desert;yellow;small;scales;venom;forked tongue
+dog;house;brown;medium;legs;muzzle;hair;tail;cousins
+cat;house;white;small;legs;whiskers;hair;tail;cousins
+horse; fields; brown; tall; a mane; hairs; a tail; hooves
+lion;savannah;yellow;big;legs;claws;hair;mane;tail
+dolphin;sea;blue;medium;fins;dorsal; gills; a tail
+elephant; savannah; gray; large; legs; a tail; a trunk; large ears; hard skin
+rhinoceros; savanna; gray; large; legs; tail; horns; hard skin
+giraffe; savannah; brown; tall; legs; a long neck; a tail; hooves
+End
